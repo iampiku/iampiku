@@ -1,14 +1,14 @@
-Hi 👋 My name is Pradipta Chatterjee
+Hi 👋 My name is Pradipta Chatterjee 🙋
 ====================================
 
-Full stack developer
+Full stack developer 👨‍💻
 --------------------
 
-I am hard-working and dedicated with a great interest in front-end development. I take great pride in my work, and I always try to improve myself with every project I work on. I am motivated and well organized, with a keen eye for efficient design, primarily based around user interfaces.
+I am hard-working and dedicated with a great interest in front-end development. I take great pride in my work, and I always try to improve myself with every project I work on. I am motivated and well organized, with a keen eye for efficient design, primarily based around user interfaces. Lately I have also got my hands dirty with backend development with frameworks like Nestjs and Spring Boot (Layer Based Backend architecture is the real deal ❤️). 
 
 * 🌍  I'm based in India, Kolkata
 * ✉️  You can contact me at [iampikuchatterjee@gmail.com](mailto:iampikuchatterjee@gmail.com)
-* 🧠  I'm learning Vue
+* 🧠  I'm learning Vue and Vuetify
 
 ### Skills
 
