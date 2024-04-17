@@ -8,7 +8,7 @@ I am a Vue.js frontend developer with a years of experience. I have a strong und
 
 * 🌍  I'm based in India, Kolkata
 * ✉️  You can contact me at [iampikuchatterjee@gmail.com](mailto:iampikuchatterjee@gmail.com)
-* 🧠  I'm learning Vue3, Microservice Architechture
+* 🧠  I'm learning Microservice Architechture
 * 🤝  I'm open to collaborating on Full Stack projects.
 
 ### Skills
