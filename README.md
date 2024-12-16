@@ -1,10 +1,56 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pradipta Chatterjee 🤓
 ===========================================================================================================================================
 
-Frontend Developer 🧑‍💻
-------------------
+## 💫 About Me
+🚀 Software Engineer passionate about building web applications  
+🌱 Currently working at Capital Numbers Infotech  
+🎯 Focused on creating efficient and scalable solutions  
+📍 Based in Kolkata, West Bengal  
+📫 Reach me at: iampikuchatterjee@gmail.com
 
-I am a Vue.js frontend developer with a years of experience. I have a strong understanding of frontend web development and a passion for building interactive and user-friendly web applications. Over the past years, I have had the opportunity to work on a variety of projects using Vue.js, including building single page applications with Vue 3, state management using pinia and vuex, integrating with REST APIs using Axios, and implementing responsive design with Tailwind CSS. I am also proficient in using Vuetify for building material design layouts. My skills in these technologies, along with my experience working with HTML, CSS, and JavaScript, have allowed me to deliver high-quality web applications that meet the needs of my clients.
+## 💻 Tech Stack
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+
+### Tools & Technologies
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
+
+## 🌟 Featured Projects
+
+### 📸 Unsplash Clone
+- Built with Nuxt.js 3, TypeScript, and Nuxt UI
+- Features: Photo search, download functionality, pagination
+- Dark/Light theme switching
+- Server-side rendering for optimal performance
+[View Project →](https://github.com/iampiku/unsplash-clone)
+
+### 🛍️ Fake Store
+- React.js + TypeScript eCommerce application
+- State management using Context API and Reducers
+- Product filtering and sorting capabilities
+- Responsive design across all devices
+[View Project →](https://github.com/iampiku/Demo-E-Commerce)
+
+## 🎓 Certifications
+- React JS Meta Front-End Developer
+- Vue JS 3: Composition API
+- Version Control System (Git)
+---
+⭐️ From [Pradipta Chatterjee](https://github.com/iampiku)
 
 * 🌍  I'm based in India, Kolkata
 * ✉️  You can contact me at [iampikuchatterjee@gmail.com](mailto:iampikuchatterjee@gmail.com)
